@@ -10,6 +10,6 @@ Success Response:
 Error Response:
 {
    "code": 401,
-   "message": "Unauthorized to access users",
+   "message": "Unauthorized",
    "source": "identity.api.users"
 }
