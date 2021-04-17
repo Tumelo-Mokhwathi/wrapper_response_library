@@ -1,4 +1,4 @@
-Wrapper response library is a .NET Core Library that can be used on .NET Core Web API.
+Wrapper response library is a .NET Core Library that can be used on .NET Core Web API. The purpose of this library is to display api response in the format below:
 
 Success Response:
 {
