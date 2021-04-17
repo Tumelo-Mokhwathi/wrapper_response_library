@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WrapperResponse.Library</id>
+    <version>1.0.0</version>
+    <authors>Tumelo Mokhwathi</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wrapper response to be used on .NET Core Web API</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\bin\Debug\netcoreapp3.1\WrapperResponse.dll" target="lib\netcoreapp3.1\WrapperResponse.dll" />
+  </files>
+</package>

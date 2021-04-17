@@ -1,0 +1,9 @@
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\bin\Debug\netcoreapp3.1\WrapperResponse.deps.json
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\bin\Debug\netcoreapp3.1\WrapperResponse.dll
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\bin\Debug\netcoreapp3.1\WrapperResponse.pdb
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\obj\Debug\netcoreapp3.1\WrapperResponse.csprojAssemblyReference.cache
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\obj\Debug\netcoreapp3.1\WrapperResponse.AssemblyInfoInputs.cache
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\obj\Debug\netcoreapp3.1\WrapperResponse.AssemblyInfo.cs
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\obj\Debug\netcoreapp3.1\WrapperResponse.csproj.CoreCompileInputs.cache
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\obj\Debug\netcoreapp3.1\WrapperResponse.dll
+C:\Tumelo Stuff\Tumelo Projects\Tumelo Identity Server Registration System\WrapperResponse\obj\Debug\netcoreapp3.1\WrapperResponse.pdb
